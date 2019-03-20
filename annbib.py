@@ -1,4 +1,3 @@
-#!/home/david/.repos/anaconda3/bin/python3
 import argparse
 import os
 import subprocess
