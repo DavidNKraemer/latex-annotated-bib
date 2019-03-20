@@ -8,7 +8,7 @@ A small project for managing annotated bibliographies in LaTeX
 * system
   * `latexmk`
 
-Example usage:
+# Example usage:
 
 ```
 $ python annbib.py database targets
